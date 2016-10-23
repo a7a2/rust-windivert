@@ -1,0 +1,7 @@
+[package]
+name = "windivert-sys"
+version = "0.1.0"
+authors = ["ray851107 <ray851107@gmail.com>"]
+
+[dependencies]
+winapi = "*"
